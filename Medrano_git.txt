@@ -1,0 +1,6 @@
+	Kamusta Kalibotan!
+mao ni akong pinakauna na pagpasa sa git!
+
+Hello World!
+This is my first git file upload.
+

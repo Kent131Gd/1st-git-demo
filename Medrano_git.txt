@@ -4,3 +4,5 @@ mao ni akong pinakauna na pagpasa sa git!
 Hello World!
 This is my first git file upload.
 
+
+this is the 2nd time i edit ts
